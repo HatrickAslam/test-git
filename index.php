@@ -4,6 +4,6 @@
 	<title>ini index</title>
 </head>
 <body>
-	<p>hello moto :))</p>
+	<p>Hello Moto :))</p>
 </body>
 </html>
